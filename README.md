@@ -2,4 +2,4 @@ Plantilla web E-Commerce
 
 
 ## Demo
-./images/logo/tienda.jpg
+./assets/images/logo/tienda.jpg
